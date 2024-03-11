@@ -2,11 +2,14 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=oracle) ![BI](https://img.shields.io/badge/-Power%20BI%20-000?&logo=powerbi)
+
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux) ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) 
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=numpy)
 
 <!-- ### Full Stack Projects -->
 
