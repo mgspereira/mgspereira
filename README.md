@@ -25,6 +25,4 @@ Transformo processos manuais em soluções automatizadas e dados em decisões �
 | _em breve_ | Projeto Power BI (PBIP) com modelagem dimensional e DAX | Power BI, Git |
 | _em breve_ | Automação de coleta e consolidação de dados | Python, Selenium |
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mgspereira&show_icons=true&hide_border=true&theme=graywhite)
-
 📫 [LinkedIn](https://www.linkedin.com/in/marcelogomespereira/)
